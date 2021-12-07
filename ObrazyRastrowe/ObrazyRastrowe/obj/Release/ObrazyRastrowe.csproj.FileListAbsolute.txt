@@ -1,0 +1,22 @@
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\bin\Release\ObrazyRastrowe.exe.config
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\bin\Release\ObrazyRastrowe.exe
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\bin\Release\ObrazyRastrowe.pdb
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Release\ObrazyRastrowe.FormatkaGłówna.resources
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Release\ObrazyRastrowe.Properties.Resources.resources
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Release\ObrazyRastrowe.SuwakJasności.resources
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Release\ObrazyRastrowe.csproj.GenerateResource.cache
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Release\ObrazyRastrowe.csproj.CoreCompileInputs.cache
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Release\ObrazyRastrowe.exe
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Release\ObrazyRastrowe.pdb
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Release\ObrazyRastrowe.csprojAssemblyReference.cache
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\bin\Release\ObrazyRastrowe.exe.config
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\bin\Release\ObrazyRastrowe.exe
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\bin\Release\ObrazyRastrowe.pdb
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Release\ObrazyRastrowe.csprojAssemblyReference.cache
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Release\ObrazyRastrowe.FormatkaGłówna.resources
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Release\ObrazyRastrowe.Properties.Resources.resources
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Release\ObrazyRastrowe.SuwakJasności.resources
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Release\ObrazyRastrowe.csproj.GenerateResource.cache
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Release\ObrazyRastrowe.csproj.CoreCompileInputs.cache
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Release\ObrazyRastrowe.exe
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Release\ObrazyRastrowe.pdb

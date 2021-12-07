@@ -1,0 +1,33 @@
+C:\Users\niewi\Desktop\Obrazy rastrowe\ObrazyRastrowe\ObrazyRastrowe\bin\Debug\ObrazyRastrowe.exe.config
+C:\Users\niewi\Desktop\Obrazy rastrowe\ObrazyRastrowe\ObrazyRastrowe\bin\Debug\ObrazyRastrowe.exe
+C:\Users\niewi\Desktop\Obrazy rastrowe\ObrazyRastrowe\ObrazyRastrowe\bin\Debug\ObrazyRastrowe.pdb
+C:\Users\niewi\Desktop\Obrazy rastrowe\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.csprojAssemblyReference.cache
+C:\Users\niewi\Desktop\Obrazy rastrowe\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.Properties.Resources.resources
+C:\Users\niewi\Desktop\Obrazy rastrowe\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.csproj.GenerateResource.cache
+C:\Users\niewi\Desktop\Obrazy rastrowe\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.csproj.CoreCompileInputs.cache
+C:\Users\niewi\Desktop\Obrazy rastrowe\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.exe
+C:\Users\niewi\Desktop\Obrazy rastrowe\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.pdb
+C:\Users\niewi\Desktop\Obrazy rastrowe\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.FormatkaGłówna.resources
+C:\Users\niewi\Desktop\Obrazy rastrowe\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.SuwakJasności.resources
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\bin\Debug\ObrazyRastrowe.exe.config
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\bin\Debug\ObrazyRastrowe.exe
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\bin\Debug\ObrazyRastrowe.pdb
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.csprojAssemblyReference.cache
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.FormatkaGłówna.resources
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.Properties.Resources.resources
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.SuwakJasności.resources
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.csproj.GenerateResource.cache
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.csproj.CoreCompileInputs.cache
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.exe
+C:\Users\niewi\Desktop\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.pdb
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\bin\Debug\ObrazyRastrowe.exe.config
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\bin\Debug\ObrazyRastrowe.exe
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\bin\Debug\ObrazyRastrowe.pdb
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.csprojAssemblyReference.cache
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.FormatkaGłówna.resources
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.Properties.Resources.resources
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.SuwakJasności.resources
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.csproj.GenerateResource.cache
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.csproj.CoreCompileInputs.cache
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.exe
+C:\Users\niewi\Desktop\Jakub Karalus 380950\Jakub Karalus 380950\ObrazyRastrowe\ObrazyRastrowe\obj\Debug\ObrazyRastrowe.pdb

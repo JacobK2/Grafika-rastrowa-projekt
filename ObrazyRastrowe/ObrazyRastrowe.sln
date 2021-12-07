@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObrazyRastrowe", "ObrazyRastrowe\ObrazyRastrowe.csproj", "{75ED29BC-92D2-4BBF-9820-97678B205EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75ED29BC-92D2-4BBF-9820-97678B205EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75ED29BC-92D2-4BBF-9820-97678B205EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75ED29BC-92D2-4BBF-9820-97678B205EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75ED29BC-92D2-4BBF-9820-97678B205EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DD4646B-6C95-4F24-AA72-E98CB81E4E1A}
+	EndGlobalSection
+EndGlobal
